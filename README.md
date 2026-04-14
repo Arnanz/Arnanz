@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-<table align="center">
+
   <tr>
     <td width="50%" valign="top">
       Saya adalah Mahasiswa Teknik Informatika Politeknik Negeri Malang yang sedang mempelajari ekosistem data digital, mulai dari manajemen basis data hingga eksplorasi machine learning. Berkontribusi aktif dalam penyelesaian berbagai proyek akhir mata kuliah, serta memiliki keterampilan praktis dalam logika pemrograman dan pemecahan masalah teknis.  Tertarik untuk mengembangkan karir di bidang data dan berkontribusi pada inovasi teknologi di industri digital.
@@ -20,7 +20,8 @@
 
     
   </tr>
-</table>
+<br>
+<br>
 
 **🎯 Fokus Karir Saat Ini:** Mengembangkan karir di bidang data (*Data Analyst* / *Data Engineer*) dan berkontribusi pada inovasi teknologi di industri digital.
 
